@@ -1,0 +1,15 @@
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\bin\Debug\net7.0\Welcome.exe
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\bin\Debug\net7.0\Welcome.deps.json
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\bin\Debug\net7.0\Welcome.runtimeconfig.json
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\bin\Debug\net7.0\Welcome.dll
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\bin\Debug\net7.0\Welcome.pdb
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.csproj.AssemblyReference.cache
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.AssemblyInfo.cs
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.dll
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\refint\Welcome.dll
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.pdb
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\Welcome.genruntimeconfig.cache
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\Welcome\obj\Debug\net7.0\ref\Welcome.dll

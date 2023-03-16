@@ -1,0 +1,5 @@
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\WelcomeExtended\obj\Debug\net7.0\WelcomeExtended.csproj.AssemblyReference.cache
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\WelcomeExtended\obj\Debug\net7.0\WelcomeExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\WelcomeExtended\obj\Debug\net7.0\WelcomeExtended.AssemblyInfoInputs.cache
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\WelcomeExtended\obj\Debug\net7.0\WelcomeExtended.AssemblyInfo.cs
+C:\Users\RalitsaG\RiderProjects\PS_Ralitsa\WelcomeExtended\obj\Debug\net7.0\WelcomeExtended.csproj.CoreCompileInputs.cache
