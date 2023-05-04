@@ -30,7 +30,7 @@ namespace Welcome.Model
         }
 
         private int _facultyNumber;
-        public int FacultyNumber
+        public virtual int FacultyNumber
         {
             get{ return _facultyNumber;}
             set{ _facultyNumber = value;}

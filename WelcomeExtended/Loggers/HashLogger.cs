@@ -53,4 +53,24 @@ public class HashLogger: ILogger
     {
         return null;
     }
+    public string CollectMessages()
+    {
+        StringBuilder sb = new StringBuilder();
+        foreach (var keyValuePair in _logMessages) 
+        {
+            sb.Append(keyValuePair.Value);
+            sb.AppendLine();
+        } 
+        return sb.ToString();
+    }
+    
+    public void PrintData(EventId eventId)
+    {
+        Console.WriteLine(_logMessages[eventId.Id]);
+    }
+
+    public void DeleteEvent(EventId eventId)
+    {
+        _logMessages[eventId.Id] = "";
+    }
 }

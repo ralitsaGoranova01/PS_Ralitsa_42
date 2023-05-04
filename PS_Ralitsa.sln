@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome", "Welcome\Welcome.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeExtended", "WelcomeExtended\WelcomeExtended.csproj", "{D7D9FA62-23A6-46E5-8CC2-815E130D89FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{B5BE6E2D-26B4-41D9-84D6-034C1EAA834E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI2", "UI2\UI2.csproj", "{22244074-48C7-405A-8A33-E47EEFAEB0E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{D7D9FA62-23A6-46E5-8CC2-815E130D89FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7D9FA62-23A6-46E5-8CC2-815E130D89FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7D9FA62-23A6-46E5-8CC2-815E130D89FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5BE6E2D-26B4-41D9-84D6-034C1EAA834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BE6E2D-26B4-41D9-84D6-034C1EAA834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BE6E2D-26B4-41D9-84D6-034C1EAA834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BE6E2D-26B4-41D9-84D6-034C1EAA834E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22244074-48C7-405A-8A33-E47EEFAEB0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22244074-48C7-405A-8A33-E47EEFAEB0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22244074-48C7-405A-8A33-E47EEFAEB0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22244074-48C7-405A-8A33-E47EEFAEB0E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
